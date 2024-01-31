@@ -1,0 +1,42 @@
+[
+    {
+    "id":"5dbb3dd8-49d8-4c3b-93d9-59230836b2f1",
+    "name": "John Doe",
+    "description": "This is a description of John Doe",
+    "includedPatterns": "234",
+    "excludedPatterns": "567",
+    "sensitivity": "LOW"
+    },
+    {
+    "id": "594daba3-e1e4-4a5f-89ae-372dfb95a16d",
+    "name": "Jane Doe",
+    "description": "This is a description of Jane Doe",
+    "includedPatterns": "xyz",
+    "excludedPatterns": "abc",
+    "sensitivity": "MEDIUM"
+    },
+    {
+    "id": "9c05b68b-e51b-42ce-8b89-10f8aa32db2b",
+    "name": "John Smith",
+    "description": "This is a description of John Smith",
+    "includedPatterns": "123",
+    "excludedPatterns": "456",
+    "sensitivity": "HIGH"
+    },
+    {
+    "id": "5c49d6a0-74a2-4202-af90-204ef0e35fbc",
+    "name": "Jane Smith",
+    "description": "This is a description of Jane Smith",
+    "includedPatterns": "123",
+    "excludedPatterns": "456",
+    "sensitivity": "HIGH"
+    },
+    {
+    "id": "",
+    "name": "John Doe",
+    "description": "This is a description of John Doe",
+    "includedPatterns": "234",
+    "excludedPatterns": "567",
+    "sensitivity": "LOW"
+    }
+]

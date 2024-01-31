@@ -1,0 +1,50 @@
+[
+  {
+    "id": "9c05b68b-e51b-42ce-8b89-10f8aa32db2b",
+    "name": "John Smith",
+    "description": "This is a description of John Smith",
+    "includePattern": "123",
+    "excludePattern": "456",
+    "sensitivity": "HIGH"
+  },
+  {
+    "id": "5c49d6a0-74a2-4202-af90-204ef0e35fbc",
+    "name": "Jane Smith",
+    "description": "This is a description of Jane Smith",
+    "includePattern": "123",
+    "excludePattern": "456",
+    "sensitivity": "HIGH"
+  },
+  {
+    "id": "5c49d6a0-74a2-90-204ef0e35fbc",
+    "name": "John Doe",
+    "description": "This is a description of John Doe",
+    "includePattern": "234",
+    "excludePattern": "567",
+    "sensitivity": "LOW"
+  },
+  {
+    "id": "c66f10d9-c759-4995-a506-760f6a20a0b5",
+    "name": "Janey Doe",
+    "description": "This is a description of Janey Doe",
+    "includePattern": "xyz",
+    "excludePattern": "abc",
+    "sensitivity": "MEDIUM"
+  },
+  {
+    "id": "2807ef40-963e-48be-9d8f-259690b7fefb",
+    "name": "new name",
+    "description": "fjdkajfldk",
+    "includePattern": "jkljjklj",
+    "excludePattern": "fdsafdsa",
+    "sensitivity": "LOW"
+  },
+  {
+    "id": "3d98f751-6464-49e1-88ba-0d9322780ef3",
+    "name": "another new card",
+    "description": "fdsafdsa",
+    "includePattern": "fffff",
+    "excludePattern": "ssss",
+    "sensitivity": "LOW"
+  }
+]
