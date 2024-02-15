@@ -30,7 +30,6 @@ app
       excludePattern,
       sensitivity,
     };
-    //const updatedCards = [...cards, newCard];
     cards.push(newCard);
     console.log(cards);
     fs.writeFileSync("./data/cards.json", JSON.stringify(cards, null, 2));
